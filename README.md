@@ -1,5 +1,7 @@
 # 🚀 ROH ULTRA-PREMIUM BOMBER
 
+[![Screenshot-20260218-144730.jpg](https://i.postimg.cc/jSmp61G6/Screenshot-20260218-144730.jpg)](https://postimg.cc/TKjNft2h)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=POWERFUL+SMS+BOMBER;UPDATED+API+METHOD;ROH+ULTRA+PREMIUM;FAST+AND+SECURE" alt="Typing SVG" />
 </p>
