@@ -22,7 +22,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone [https://github.com/Root-Of-Hunter/Bomber](https://github.com/Root-Of-Hunter/Bomber)
+git clone https://github.com/Root-Of-Hunter/Bomber
 cd Bomber
 pip install aiohttp requests beautifulsoup4
 python eSms.py
