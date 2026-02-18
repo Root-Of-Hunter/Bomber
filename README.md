@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Features
-- [x] **Latest API Method** (PutulHost Registration)
+- [x] **Latest API Method** (Hiden)
 - [x] **Asyncio & Aiohttp** (Ultra Fast Execution)
 - [x] **Dynamic Token Fetching**
 - [x] **Custom Name Support**
